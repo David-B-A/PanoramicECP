@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/dabelloa/AndroidSDK/cmake/3.6.4111459/bin/cmake --build /home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/dabelloa/AndroidSDK/cmake/3.6.4111459/bin/cmake --build /home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/.cxx/cmake/debug/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"
+    },
+    "lib_opencv-Debug-arm64-v8a": {
+      "artifactName": "lib_opencv",
+      "abi": "arm64-v8a",
+      "output": "/home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/src/main/jniLibs/arm64-v8a/libopencv_java3.so"
+    }
+  }
+}

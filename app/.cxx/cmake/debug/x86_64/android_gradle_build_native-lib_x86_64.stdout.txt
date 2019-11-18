@@ -1,0 +1,6 @@
+[1/2] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o
+/home/dabelloa/AndroidStudioProjects/opencv_native_androidstudio/app/src/main/cpp/native-lib.cpp:45:5: warning: '/*' within block comment [-Wcomment]
+    /* Mat &mGr = *(Mat *) matAddrGray;
+    ^
+1 warning generated.
+[2/2] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so
